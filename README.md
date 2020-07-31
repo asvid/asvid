@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [IntelliJ settings repo](/intellij-settings-repo)
-- [IntelliJ settings repo](/intellij-settings-repo)
-- [Shell script basics](/shellscriptbasics)
 - [Shell script basics](/shellscriptbasics)
 - [Overlibrarization](/overlibrarization)
 <!-- BLOG-POST-LIST:END -->
+
+<img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true" />
