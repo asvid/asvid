@@ -1,20 +1,11 @@
 ### Hi there 👋
 
-<!--
-**asvid/asvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- 🔭 I’m currently working on ...some IntelliJ plugin
+- 🌱 I’m currently learning ...Flutter | Kotlin | Scala
+- 👯 I’m looking to collaborate on ...cybernetic augmentation
+- 🤔 I’m looking for help with ...taking over the world
+- 💬 Ask me about ...weather
+- 📫 How to reach me: ... [my blog](https://asvid.github.io/)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
