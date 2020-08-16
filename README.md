@@ -17,3 +17,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asvid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
