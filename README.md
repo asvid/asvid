@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...some IntelliJ plugin
-- 🌱 I’m currently learning ...Flutter | Kotlin | Scala
+- 🌱 I’m currently learning ...Flutter | Kotlin 
 - 👯 I’m looking to collaborate on ...cybernetic augmentation
 - 🤔 I’m looking for help with ...taking over the world
 - 💬 Ask me about ...weather
