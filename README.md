@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...some IntelliJ plugin
+- 🔭 I’m currently working on ...pet project Android app
 - 🌱 I’m currently learning ...Flutter | Kotlin 
 - 👯 I’m looking to collaborate on ...cybernetic augmentation
 - 🤔 I’m looking for help with ...taking over the world
-- 💬 Ask me about ...weather
+- 💬 Ask me about ...Life, the Universe and Everything 
 - 📫 How to reach me: ... [my blog](https://asvid.github.io/)
 
 ### 📕 Latest Blog Posts
