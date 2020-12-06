@@ -17,4 +17,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asvid&layout=compact&show_icons=true&hide_border=true&theme=dracula&count_private=true&exclude_repo=szablony-allegro,app-resource-bundle,VineApp,Frigo-backend,android-build-tweaks"/>
+<img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asvid&layout=compact&show_icons=true&hide_border=true&theme=dracula&count_private=true&exclude_repo=szablony-allegro,app-resource-bundle,VineApp,Frigo-backend,android-build-tweaks&langs_count=10&hide=html,javascript,css"/>
