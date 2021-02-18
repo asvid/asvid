@@ -9,11 +9,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin Static Factory Methods](/kotlin-static-factory-methods)
-- [Kotlin Builder Pattern](/kotlin-builder-pattern)
-- [Code Review Retro](/code-review-retro)
-- [Ultimate Github Page Deployment](/github-page-deployment)
-- [IntelliJ settings repo](/intellij-settings-repo)
+- [Kotlin Static Factory Methods](http://asvid.github.io//kotlin-static-factory-methods)
+- [Kotlin Builder Pattern](http://asvid.github.io//kotlin-builder-pattern)
+- [Code Review Retro](http://asvid.github.io//code-review-retro)
+- [Ultimate Github Page Deployment](http://asvid.github.io//github-page-deployment)
+- [IntelliJ settings repo](http://asvid.github.io//intellij-settings-repo)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" />
