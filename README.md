@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...cybernetic augmentation
 - 🤔 I’m looking for help with ...taking over the world
 - 💬 Ask me about ...Life, the Universe and Everything 
-- 📫 How to reach me: ... [my blog](https://asvid.github.io/)
+- 📫 How to reach me: ... [check my blog](https://asvid.github.io/)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -19,5 +19,5 @@
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" />
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asvid&layout=compact&show_icons=true&hide_border=true&theme=dracula&count_private=true&exclude_repo=szablony-allegro,app-resource-bundle,VineApp,Frigo-backend,android-build-tweaks,asvid.github.io&langs_count=10"/>
 
-<figure><embed src="https://wakatime.com/share/@c50ef60a-e504-48e3-993e-25e666cca998/258ff3ee-3c70-4435-afe3-dfbbf86dee90.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@c50ef60a-e504-48e3-993e-25e666cca998/e5047a06-616b-47a5-83e9-85f80048b422.svg"></embed></figure>
+<img align="left" src="https://wakatime.com/share/@c50ef60a-e504-48e3-993e-25e666cca998/258ff3ee-3c70-4435-afe3-dfbbf86dee90.svg"/>
+<img align="left" src="https://wakatime.com/share/@c50ef60a-e504-48e3-993e-25e666cca998/e5047a06-616b-47a5-83e9-85f80048b422.svg"/>
