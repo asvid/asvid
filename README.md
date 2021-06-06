@@ -9,11 +9,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Strategy Pattern in Kotlin](http://asvid.github.io//kotlin-strategy-pattern)
 - [Kotlin Template Method](http://asvid.github.io//kotlin-template-method)
 - [Kotlin Abstract Factory](http://asvid.github.io//kotlin-abstract-factory)
 - [Kotlin Factory Method](http://asvid.github.io//kotlin-factory-method)
 - [Kotlin Static Factory Methods](http://asvid.github.io//kotlin-static-factory-methods)
-- [Kotlin Builder Pattern](http://asvid.github.io//kotlin-builder-pattern)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" />
