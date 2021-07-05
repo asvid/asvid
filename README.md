@@ -9,11 +9,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Decorator Pattern in Kotlin](http://asvid.github.io//kotlin-decorator-pattern)
 - [Adapter Pattern in Kotlin](http://asvid.github.io//kotlin-adapter-pattern)
 - [IntelliJ IDEA as a LaTeX editor](http://asvid.github.io//intellij-latex-editor)
 - [Facade Pattern in Kotlin](http://asvid.github.io//kotlin-facade-pattern)
 - [Strategy Pattern in Kotlin](http://asvid.github.io//kotlin-strategy-pattern)
-- [Kotlin Template Method](http://asvid.github.io//kotlin-template-method)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" />
