@@ -9,11 +9,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Command Pattern in Kotlin](http://asvid.github.io//kotlin-command-pattern)
 - [Remote Logger](http://asvid.github.io//remote-logger)
 - [Mediator in Kotlin](http://asvid.github.io//kotlin_mediator_pattern)
 - [Decorator Pattern in Kotlin](http://asvid.github.io//kotlin-decorator-pattern)
 - [Adapter Pattern in Kotlin](http://asvid.github.io//kotlin-adapter-pattern)
-- [IntelliJ IDEA as a LaTeX editor](http://asvid.github.io//intellij-latex-editor)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" />
