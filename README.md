@@ -19,4 +19,5 @@
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" />
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asvid&layout=compact&show_icons=true&hide_border=true&theme=dracula&count_private=true&exclude_repo=szablony-allegro,app-resource-bundle,VineApp,Frigo-backend,android-build-tweaks,asvid.github.io&langs_count=10"/>
 
-<img align="left" src="https://wakatime.com/share/@c50ef60a-e504-48e3-993e-25e666cca998/258ff3ee-3c70-4435-afe3-dfbbf86dee90.svg" width="500"/>
+<!-- <img align="left" src="https://wakatime.com/share/@c50ef60a-e504-48e3-993e-25e666cca998/258ff3ee-3c70-4435-afe3-dfbbf86dee90.svg" width="500"/>
+ -->
