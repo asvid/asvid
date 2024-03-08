@@ -9,11 +9,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Android Presentation Patterns: MVI](http://asvid.github.io//2024-02-24-MVI)
 - [Android Presentation Patterns: MVVM](http://asvid.github.io//2024-02-09-MVVM)
 - [Android Presentation Patterns: MVP](http://asvid.github.io//2024-01-29-MVP)
 - [Android Presentation Patterns: MVC](http://asvid.github.io//2024-01-27-MVC)
 - [Continuous Integration and Deployment: A Developer&#39;s Best Friends](http://asvid.github.io//2023-06-16-ci-is-your-friend)
-- [Would you go for mobile development again, after 10 years of doing it?](http://asvid.github.io//would-i-do-mobile-again)
 <!-- BLOG-POST-LIST:END -->
 <!-- 
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
