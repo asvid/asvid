@@ -9,11 +9,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Android service binding fix for API 30](http://asvid.github.io//2021-09-03-android-service-binding-on-api30)
-- [Command Pattern in Kotlin](http://asvid.github.io//kotlin-command-pattern)
-- [Remote Logger](http://asvid.github.io//remote-logger)
-- [Mediator in Kotlin](http://asvid.github.io//kotlin_mediator_pattern)
-- [Decorator Pattern in Kotlin](http://asvid.github.io//kotlin-decorator-pattern)
+- [Android Presentation Patterns: MVVM](http://asvid.github.io//2024-02-09-MVVM)
+- [Android Presentation Patterns: MVP](http://asvid.github.io//2024-01-29-MVP)
+- [Android Presentation Patterns: MVC](http://asvid.github.io//2024-01-27-MVC)
+- [Continuous Integration and Deployment: A Developer&#39;s Best Friends](http://asvid.github.io//2023-06-16-ci-is-your-friend)
+- [Would you go for mobile development again, after 10 years of doing it?](http://asvid.github.io//would-i-do-mobile-again)
 <!-- BLOG-POST-LIST:END -->
 <!-- 
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
