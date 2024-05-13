@@ -9,7 +9,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Veni, Vidi, Rewrite](https://swiderski.tech/2024-05-07-rewrite-seems-like-a-bad-idea/)
+- [Veni, Vidi, Rewritten](https://swiderski.tech/2024-05-07-rewrite-seems-like-a-bad-idea/)
 - [Refactor to UseCases](https://swiderski.tech/2024-04-23-refactor-to-usecases/)
 - [Developer&#39;s golden cage](https://swiderski.tech/2024-04-08-developers-golden-cage/)
 - [Android Presentation Patterns: MVI](https://swiderski.tech/2024-02-24-MVI/)
