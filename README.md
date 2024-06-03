@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...pet project Android app
-- 🌱 I’m currently learning ...Flutter | Kotlin | Testing | Architecture
+- 🔭 I’m currently working on ...ZenTimer pet project
+- 🌱 I’m currently learning ...Go | Backend stuff
 - 👯 I’m looking to collaborate on ...cybernetic augmentation
 - 🤔 I’m looking for help with ...taking over the world
 - 💬 Ask me about ...Life, the Universe and Everything 
-- 📫 How to reach me: ... [check my blog](https://asvid.github.io/)
+- 📫 How to reach me: ... [check my blog](https://swiderski.tech/)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
