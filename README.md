@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...ZenTimer pet project
-- 🌱 I’m currently learning ...Go | Backend stuff
+- 🔭 I’m currently working on ...Kombain pet project
+- 🌱 I’m currently learning ...Go || Backend stuff
 - 👯 I’m looking to collaborate on ...cybernetic augmentation
 - 🤔 I’m looking for help with ...taking over the world
 - 💬 Ask me about ...Life, the Universe and Everything 
