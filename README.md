@@ -26,11 +26,11 @@ Software Engineer with a rich background in developing educational apps, smart h
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Genie&#39;s Curse: My Month with AI-Augmented Coding](https://swiderski.tech/2025-07-25-ai-genie/)
 - [I built my own split keyboard](https://swiderski.tech/2025-03-18-split-keyboard-build/)
 - [The Stoic Engineer&#39;s Guide to Technical Debt](https://swiderski.tech/2024-11-12-tech-debt-communication/)
 - [I&#39;m done with multiplatform software development](https://swiderski.tech/2024-11-01-done-with-multiplatform/)
 - [Using Design Patterns as Communication Skill](https://swiderski.tech/2024-10-13-Design-patterns-as-communication-skill/)
-- [Breaking Free from Analysis Paralysis](https://swiderski.tech/2024-06-07-breaking-free-from-analysis-paralysis/)
 <!-- BLOG-POST-LIST:END -->
 <!-- 
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
