@@ -37,6 +37,14 @@ Software Engineer with a rich background in developing educational apps, smart h
 
 <!--START_SECTION:waka-->
 
+```txt
+Swift                         10 hrs 1 min    ██████████░░░░░░░░░░░░░░░   39.68 %
+TypeScript                    8 hrs 43 mins   ████████▓░░░░░░░░░░░░░░░░   34.55 %
+Other                         4 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+JavaScript Testing Snapshot   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Markdown                      27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+```
+
 <!--END_SECTION:waka-->
 <img align="left" src="https://wakatime.com/share/@c50ef60a-e504-48e3-993e-25e666cca998/224aa038-7807-41a9-af8b-4e7c6a4a4637.svg" width="45%"/>
 <img align="right" src="https://wakatime.com/share/@c50ef60a-e504-48e3-993e-25e666cca998/f86c9306-b3ad-4ac4-9399-e060e922c1e9.svg" width="45%"/>
