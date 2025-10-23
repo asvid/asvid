@@ -46,5 +46,3 @@ Markdown                      27 mins         ▒░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<img align="left" src="https://wakatime.com/share/@c50ef60a-e504-48e3-993e-25e666cca998/224aa038-7807-41a9-af8b-4e7c6a4a4637.svg" width="45%"/>
-<img align="right" src="https://wakatime.com/share/@c50ef60a-e504-48e3-993e-25e666cca998/f86c9306-b3ad-4ac4-9399-e060e922c1e9.svg" width="45%"/>
