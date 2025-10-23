@@ -38,6 +38,8 @@ Software Engineer with a rich background in developing educational apps, smart h
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 20 hrs 24 mins
+
 Swift                         10 hrs 1 min    ██████████░░░░░░░░░░░░░░░   39.68 %
 TypeScript                    8 hrs 43 mins   ████████▓░░░░░░░░░░░░░░░░   34.55 %
 Other                         4 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
