@@ -1,15 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam
 ============================================================================================================================
 
-software engineer
------------------
+Software engineer bouncing between mobile and backend for 15 years
 
-Software Engineer with a rich background in developing educational apps, smart home solutions, and fintech systems. I focus on crafting clean, stable code, adhering to principles like SOLID and DRY, while avoiding unnecessary complexity. Experienced in managing both legacy systems and initiating greenfield projects, learning through hands-on challenges. I'm passionate about automating workflows, particularly through CI/CD, and have designed release procedures for mobile applications. When not coding, I'm likely outdoors, camping, hiking, or exploring on my motorcycle.
+Started in web, moved to native Android when hybrid frameworks didn't work. Currently doing backend in TypeScript and relearning SQL. I hack anything that accepts custom firmware - wife's DSLR, Kindle, ran nightly Android builds on my first smartphone (mistakes were made). I once build app to for controlling tuned cars air suspension, with Arduino and Bluetooth and spark of magic.
 
-* 🌍  I'm based in Poznań, Poland
-* 🖥️  See my portfolio at [My page](http://swiderski.tech/about/)
-* ✉️  You can contact me at [aswiderski@pm.me](mailto:aswiderski@pm.me)
-* 🧠  I'm learning GoLang
+My office is split down the middle: clean desk for coding, dirty workbench for soldering and 3D printing. I hand-wired the split keyboard I'm typing on right now.
+
+Getting grey hair means I catch myself saying "back in my days" more often. Turns out nothing in computer science is actually new - just the same patterns wrapped differently every decade. But I'm trying to stay curious anyway, approaching problems like a kid who hasn't learned to be cynical yet. Still enjoy learning new languages and tech.
+
+Lately playing with iOS dev using AI-assisted coding - turns out I can skip tutorial hell and just build what I need. Also automate everything. Repetitive tasks are my enemy. Even driving the same route twice bothers me.
+
+🌍 Poznań, Poland
+
+🖥️ [swiderski.tech](https://swiderski.tech/)
+
+✉️ aswiderski@pm.me
+
 
 ### Skills
 
