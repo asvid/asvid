@@ -43,15 +43,15 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C121%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C120%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 604.1 kB Used in GitHub's Storage 
+> 📦 604.2 kB Used in GitHub's Storage 
  > 
-> 🏆 986 Contributions in the Year 2025
+> 🏆 993 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -62,21 +62,21 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                845 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-🌆 Daytime                2443 commits        ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-🌃 Evening                5435 commits        ███████████████░░░░░░░░░░   58.95 % 
+🌞 Morning                845 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+🌆 Daytime                2445 commits        ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+🌃 Evening                5437 commits        ███████████████░░░░░░░░░░   58.95 % 
 🌙 Night                  496 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   1256 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Tuesday                  1141 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Wednesday                1412 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Thursday                 961 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Friday                   1000 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Tuesday                  1141 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Wednesday                1412 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Thursday                 965 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Friday                   1000 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 Saturday                 1396 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Sunday                   2053 commits        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Sunday                   2053 commits        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
 ```
 
 
@@ -115,5 +115,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2025 13:21:34 UTC
+ Last Updated on 24/10/2025 00:26:00 UTC
 <!--END_SECTION:waka-->
