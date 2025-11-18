@@ -43,7 +43,7 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C165%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C165%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,7 +51,7 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 
 > 📦 604.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,072 Contributions in the Year 2025
+> 🏆 1,074 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -86,19 +86,19 @@ Sunday                   2055 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    5 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.13 % 
-Kotlin                   3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-STL                      2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-TypeScript               2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Swift                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Other                    5 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   36.05 % 
+Kotlin                   3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+STL                      2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+TypeScript               2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Zed                      14 hrs 14 mins      ███████████████████████░░   90.35 % 
-Xcode                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Zed                      14 hrs 25 mins      █████████████████████████   99.35 % 
+IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Xcode                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      15 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -114,5 +114,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2025 00:30:53 UTC
+ Last Updated on 18/11/2025 00:30:08 UTC
 <!--END_SECTION:waka-->
