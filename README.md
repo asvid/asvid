@@ -43,7 +43,7 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C168%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,7 +51,7 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 
 > 📦 604.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,080 Contributions in the Year 2025
+> 🏆 1,085 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -86,14 +86,11 @@ Sunday                   2055 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Kotlin                   5 hrs 55 mins       █████████████░░░░░░░░░░░░   51.50 % 
-Other                    4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.43 % 
-STL                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Kotlin                   7 hrs 25 mins       ████████████████░░░░░░░░░   64.56 % 
+Other                    4 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.44 % 
 
 🔥 Editors: 
-Zed                      11 hrs 29 mins      █████████████████████████   99.93 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Zed                      11 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Mac                      11 hrs 29 mins      █████████████████████████   100.00 % 
@@ -112,5 +109,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2025 00:29:44 UTC
+ Last Updated on 21/11/2025 00:28:55 UTC
 <!--END_SECTION:waka-->
