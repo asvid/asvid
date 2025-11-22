@@ -43,7 +43,7 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C171%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,7 +51,7 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 
 > 📦 604.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,085 Contributions in the Year 2025
+> 🏆 1,087 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -86,14 +86,16 @@ Sunday                   2055 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Kotlin                   7 hrs 25 mins       ████████████████░░░░░░░░░   64.56 % 
-Other                    4 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.44 % 
+Kotlin                   7 hrs 45 mins       ████████████████░░░░░░░░░   62.94 % 
+Other                    3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
+HTTP Request             37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 🔥 Editors: 
-Zed                      11 hrs 29 mins      █████████████████████████   100.00 % 
+Zed                      11 hrs 55 mins      ████████████████████████░   96.71 % 
+Postman                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 💻 Operating System: 
-Mac                      11 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -109,5 +111,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2025 00:28:55 UTC
+ Last Updated on 22/11/2025 00:27:54 UTC
 <!--END_SECTION:waka-->
