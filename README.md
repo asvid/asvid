@@ -43,7 +43,7 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C171%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C172%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,16 +86,16 @@ Sunday                   2055 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Kotlin                   7 hrs 45 mins       ████████████████░░░░░░░░░   62.94 % 
-Other                    3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
-HTTP Request             37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Kotlin                   5 hrs 49 mins       ████████████████░░░░░░░░░   65.33 % 
+Other                    2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+HTTP Request             1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 🔥 Editors: 
-Zed                      11 hrs 55 mins      ████████████████████████░   96.71 % 
-Postman                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Zed                      8 hrs 21 mins       ███████████████████████░░   93.81 % 
+Postman                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 💻 Operating System: 
-Mac                      12 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -111,5 +111,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2025 00:27:54 UTC
+ Last Updated on 23/11/2025 00:32:43 UTC
 <!--END_SECTION:waka-->
