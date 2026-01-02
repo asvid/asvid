@@ -43,7 +43,7 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C247%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C250%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,17 +86,17 @@ Sunday                   2058 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 3 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   38.88 % 
-HTTP Request             3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
-Other                    2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+HTTP Request             5 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.43 % 
+Other                    3 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+Markdown                 3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
 
 🔥 Editors: 
-Zed                      9 hrs 14 mins       ████████████████████████░   97.21 % 
-Postman                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Zed                      12 hrs 33 mins      ████████████████████████░   95.77 % 
+Postman                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      9 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -112,5 +112,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 00:35:06 UTC
+ Last Updated on 02/01/2026 00:31:00 UTC
 <!--END_SECTION:waka-->
