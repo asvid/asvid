@@ -43,6 +43,8 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C331%20hrs%2032%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -57,6 +59,46 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
  > 
 > 🔑 32 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                895 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+🌆 Daytime                2447 commits        ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+🌃 Evening                5446 commits        ███████████████░░░░░░░░░░   58.66 % 
+🌙 Night                  496 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1267 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Tuesday                  1143 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Wednesday                1412 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Thursday                 1010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Friday                   1003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Saturday                 1391 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Sunday                   2058 commits        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+Other                    6 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.56 % 
+HTTP Request             5 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.83 % 
+Markdown                 5 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+
+🔥 Editors: 
+Zed                      16 hrs 12 mins      ████████████████████████░   95.65 % 
+Postman                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Obsidian                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+
+💻 Operating System: 
+Mac                      16 hrs 56 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -70,5 +112,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 00:35:00 UTC
+ Last Updated on 05/01/2026 00:34:45 UTC
 <!--END_SECTION:waka-->
