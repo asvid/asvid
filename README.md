@@ -43,7 +43,7 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C410%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C413%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -51,7 +51,7 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 
 > 📦 609.2 kB Used in GitHub's Storage 
  > 
-> 🏆 105 Contributions in the Year 2026
+> 🏆 107 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -86,18 +86,18 @@ Sunday                   2070 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    16 hrs 34 mins      ███████████████████░░░░░░   77.40 % 
-Markdown                 3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-HTTP Request             1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Other                    13 hrs 53 mins      ██████████████████░░░░░░░   70.35 % 
+Markdown                 4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+HTTP Request             59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-Zed                      15 hrs 22 mins      ██████████████████░░░░░░░   71.77 % 
-Claude Code              4 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Obsidian                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Postman                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Zed                      14 hrs 44 mins      ███████████████████░░░░░░   74.67 % 
+Claude Code              3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Obsidian                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Postman                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 💻 Operating System: 
-Mac                      21 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -113,5 +113,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/01/2026 00:34:17 UTC
+ Last Updated on 28/01/2026 00:31:48 UTC
 <!--END_SECTION:waka-->
