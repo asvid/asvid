@@ -33,11 +33,11 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do You Want to Learn About Our Lord and Savior SOLID](https://swiderski.tech/2026-02-18-solid-dogma/)
 - [Bomb the Silo From Inside: Why Mission Teams Work](https://swiderski.tech/2026-01-28-mission-teams/)
 - [Look at Me, I&#39;m the iOS Developer Now](https://swiderski.tech/2022-10-12-candle-studio-story/)
 - [The Unix Philosophy Meets AI: Building Composable LLM Tools with MCP](https://swiderski.tech/2025-09-02-mcp-tools-llm-meets-unix/)
 - [The Genie&#39;s Curse: My Month with AI-Augmented Coding](https://swiderski.tech/2025-07-25-ai-genie/)
-- [I built my own split keyboard](https://swiderski.tech/2025-03-18-split-keyboard-build/)
 <!-- BLOG-POST-LIST:END -->
 <!-- 
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
