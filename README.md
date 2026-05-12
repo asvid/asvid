@@ -33,7 +33,7 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Kombine](https://swiderski.tech/2026-04-29-kombine/)
+- [Devlog #1](https://swiderski.tech/2026-05-11-kombine-devlog-1/)
 - [AI continuous development - My Toilet-to-Prod Pipeline](https://swiderski.tech/2026-03-25-toilet-to-prod-pipeline/)
 - [Do You Want to Learn About Our Lord and Savior SOLID](https://swiderski.tech/2026-02-18-solid-dogma/)
 - [Bomb the Silo From Inside: Why Mission Teams Work](https://swiderski.tech/2026-01-28-mission-teams/)
