@@ -43,15 +43,13 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C871%20hrs%201%20min-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 600.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2,229 Contributions in the Year 2026
+> 🏆 2,271 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -72,5 +70,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 01:03:58 UTC
+ Last Updated on 15/05/2026 01:00:23 UTC
 <!--END_SECTION:waka-->
