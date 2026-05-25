@@ -3,13 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software engineer bouncing between mobile and backend for 15 years
 
-Started in web, moved to native Android when hybrid frameworks didn't work. Currently doing backend in TypeScript and relearning SQL. I hack anything that accepts custom firmware - wife's DSLR, Kindle, ran nightly Android builds on my first smartphone (mistakes were made). I once build app to for controlling tuned cars air suspension, with Arduino and Bluetooth and spark of magic.
+Started in web, moved to native Android when hybrid frameworks didn't work. Currently building Kombine — a Pomodoro + task + activity-tracking app, shipped on Android and Wear OS; web next.
 
-My office is split down the middle: clean desk for coding, dirty workbench for soldering and 3D printing. I hand-wired the split keyboard I'm typing on right now.
-
-Getting grey hair means I catch myself saying "back in my days" more often. Turns out nothing in computer science is actually new - just the same patterns wrapped differently every decade. But I'm trying to stay curious anyway, approaching problems like a kid who hasn't learned to be cynical yet. Still enjoy learning new languages and tech.
-
-Lately playing with iOS dev using AI-assisted coding - turns out I can skip tutorial hell and just build what I need. Also automate everything. Repetitive tasks are my enemy. Even driving the same route twice bothers me.
+My office is split down the middle: a clean desk for coding, a dirty workbench for soldering and 3D printing. I hand-wired the split keyboard I'm typing on right now.
 
 🌍 Poznań, Poland
 
@@ -17,6 +13,11 @@ Lately playing with iOS dev using AI-assisted coding - turns out I can skip tuto
 
 ✉️ aswiderski@pm.me
 
+## 🌱 Current focus
+
+**[Kombine](https://kombine.swiderski.tech)** — yet another todo app. Except it's also a Pomodoro timer, activity tracker, and Wear OS companion. Tasks have energy levels, not just priorities. Web, iOS, and desktop clients on the way.
+
+→ [Play Store](https://play.google.com/store/apps/details?id=tech.swiderski.kombine) · [kombine.dev](https://kombine.dev/) · [dev blog](https://swiderski.tech/series/kombine/)
 
 ### Skills
 
