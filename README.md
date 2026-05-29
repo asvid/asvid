@@ -44,15 +44,13 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C964%20hrs%2017%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 600.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2,630 Contributions in the Year 2026
+> 🏆 2,648 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -60,49 +58,6 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
  > 
 > 🔑 33 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4605 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-🌆 Daytime                9313 commits        ████████░░░░░░░░░░░░░░░░░   32.50 % 
-🌃 Evening                13707 commits       ████████████░░░░░░░░░░░░░   47.83 % 
-🌙 Night                  1034 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   4072 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Tuesday                  3736 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Wednesday                3907 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Thursday                 3341 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Friday                   3954 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Saturday                 4361 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Sunday                   5288 commits        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Warsaw
-
-💬 Programming Languages: 
-Kotlin                   11 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   38.52 % 
-TypeScript               5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Other                    4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Markdown                 2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-YAML                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-
-🔥 Editors: 
-Claude Code              21 hrs 31 mins      ██████████████████░░░░░░░   72.34 % 
-Zed                      7 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-Android Studio           49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Postman                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-
-💻 Operating System: 
-Mac                      29 hrs 44 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -116,5 +71,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 01:01:27 UTC
+ Last Updated on 29/05/2026 01:09:44 UTC
 <!--END_SECTION:waka-->
