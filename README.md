@@ -44,7 +44,7 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C995%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C999%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -52,7 +52,7 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 
 > 📦 600.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2,904 Contributions in the Year 2026
+> 🏆 2,906 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -87,21 +87,21 @@ Sunday                   5300 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Kotlin                   10 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   31.27 % 
-Go                       5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Markdown                 3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-TypeScript               3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-templ                    2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Kotlin                   7 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+Go                       5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Markdown                 3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+TypeScript               3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+templ                    2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 17 mins      █████████████████████░░░░   84.33 % 
-Zed                      4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Android Studio           26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Postman                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Claude Code              24 hrs 51 mins      ███████████████████░░░░░░   77.93 % 
+Zed                      6 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Android Studio           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Postman                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 Obsidian                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Mac                      32 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -117,5 +117,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2026 01:14:02 UTC
+ Last Updated on 04/06/2026 01:14:18 UTC
 <!--END_SECTION:waka-->
