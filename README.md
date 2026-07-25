@@ -50,7 +50,7 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 
 > 📦 600.4 kB Used in GitHub's Storage 
  > 
-> 🏆 4,074 Contributions in the Year 2026
+> 🏆 4,082 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -58,50 +58,6 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
  > 
 > 🔑 33 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                6567 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-🌆 Daytime                12920 commits       ████████░░░░░░░░░░░░░░░░░   33.02 % 
-🌃 Evening                18277 commits       ████████████░░░░░░░░░░░░░   46.71 % 
-🌙 Night                  1362 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   5543 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Tuesday                  5263 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Wednesday                5281 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Thursday                 4725 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Friday                   5262 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Saturday                 6066 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Sunday                   6986 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Warsaw
-
-💬 Programming Languages: 
-Kotlin                   9 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
-TypeScript               7 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-Markdown                 3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Other                    3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Swift                    2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-
-🔥 Editors: 
-Claude Code              21 hrs 37 mins      ██████████████████░░░░░░░   70.71 % 
-Zed                      5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Xcode                    2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Postman                  33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Sublime Text             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-
-💻 Operating System: 
-Mac                      30 hrs 34 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -115,5 +71,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:57:47 UTC
+ Last Updated on 25/07/2026 02:54:33 UTC
 <!--END_SECTION:waka-->
