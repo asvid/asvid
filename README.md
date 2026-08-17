@@ -44,9 +44,9 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C055%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C059%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-703%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-707%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,7 +54,7 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 
 > 📦 600.4 kB Used in GitHub's Storage 
  > 
-> 🏆 4,706 Contributions in the Year 2026
+> 🏆 4,775 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -62,24 +62,24 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
  > 
 > 🔑 33 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7052 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-🌆 Daytime                13617 commits       ████████░░░░░░░░░░░░░░░░░   32.89 % 
-🌃 Evening                19270 commits       ████████████░░░░░░░░░░░░░   46.55 % 
-🌙 Night                  1459 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+🌞 Morning                7617 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+🌆 Daytime                14614 commits       ████████░░░░░░░░░░░░░░░░░   33.00 % 
+🌃 Evening                20501 commits       ████████████░░░░░░░░░░░░░   46.29 % 
+🌙 Night                  1558 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   5853 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Tuesday                  5560 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Wednesday                5539 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Thursday                 5023 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Friday                   5578 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Saturday                 6447 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Sunday                   7398 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Monday                   6252 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Tuesday                  5996 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Wednesday                5909 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Thursday                 5411 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Friday                   5922 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Saturday                 6908 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Sunday                   7892 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
 ```
 
 
@@ -89,41 +89,41 @@ Sunday                   7398 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               18 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   41.57 % 
-Kotlin                   7 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Markdown                 6 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Go                       5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Other                    3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               18 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   41.40 % 
+Kotlin                   8 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Markdown                 5 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Other                    4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Go                       4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🔥 Editors: 
-Claude Code              33 hrs 28 mins      ███████████████████░░░░░░   74.29 % 
-Zed                      9 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Xcode                    1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Claude Code              32 hrs 40 mins      ██████████████████░░░░░░░   72.21 % 
+Zed                      9 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+Xcode                    2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Obsidian                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 Android Studio           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Obsidian                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Mac                      45 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      45 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 26 mins (91.98%)
+⏱ AI Coding Time: 40 hrs 50 mins (90.28%)
 
-✍️ 21,957 lines written by AI, 6 lines written by hand (99.97% AI-written)
+✍️ 16,426 lines written by AI, 6 lines written by hand (99.96% AI-written)
 
-🔤 16,422,768 Input Tokens, 2,307,809 Output Tokens
+🔤 16,456,124 Input Tokens, 2,079,021 Output Tokens
 
-💵 $571.88 Estimated AI Cost This Week
+💵 $540.40 Estimated AI Cost This Week
 
-🧠 72 AI Sessions, 409 AI Prompts
+🧠 74 AI Sessions, 430 AI Prompts
 
-Opus                     23,600 lines        █████████████████████████   100.00 % 
+Opus                     17,348 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 4,668 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 8,184 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
@@ -141,5 +141,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 01:31:20 UTC
+ Last Updated on 17/08/2026 01:30:33 UTC
 <!--END_SECTION:waka-->
