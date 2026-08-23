@@ -44,9 +44,9 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C089%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C089%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-739%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-740%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -89,43 +89,43 @@ Sunday                   7747 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Kotlin                   14 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
-TypeScript               11 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-Markdown                 6 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Other                    5 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Go                       3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Kotlin                   13 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   32.07 % 
+TypeScript               9 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Markdown                 5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Other                    5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Go                       3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 
 🔥 Editors: 
-Claude Code              39 hrs 27 mins      █████████████████████░░░░   84.50 % 
-Xcode                    3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Zed                      2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Android Studio           57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Obsidian                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Claude Code              37 hrs 25 mins      ██████████████████████░░░   88.94 % 
+Xcode                    3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Android Studio           57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Obsidian                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Zed                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      46 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      42 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 52 mins (91.82%)
+⏱ AI Coding Time: 39 hrs 24 mins (93.68%)
 
-✍️ 10,641 lines written by AI, 318 lines written by hand (97.1% AI-written)
+✍️ 10,315 lines written by AI, 312 lines written by hand (97.06% AI-written)
 
-🔤 13,522,634 Input Tokens, 2,401,987 Output Tokens
+🔤 12,337,944 Input Tokens, 2,452,701 Output Tokens
 
-💵 $518.28 Estimated AI Cost This Week
+💵 $514.93 Estimated AI Cost This Week
 
-🧠 98 AI Sessions, 424 AI Prompts
+🧠 90 AI Sessions, 358 AI Prompts
 
-Opus                     11,984 lines        █████████████████████████   100.00 % 
+Opus                     11,609 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.1% of written lines came from AI
-📚 Verbose Prompter — average 10,821 characters per prompt
+🤖 AI-Driven — 97.06% of written lines came from AI
+📚 Verbose Prompter — average 12,567 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.59% of changed lines were hand-edited
+🚀 High AI Trust — 2.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -141,5 +141,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 01:27:12 UTC
+ Last Updated on 23/08/2026 01:34:57 UTC
 <!--END_SECTION:waka-->
