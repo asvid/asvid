@@ -44,9 +44,9 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C095%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C103%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-747%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-756%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -54,7 +54,7 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 
 > 📦 600.7 kB Used in GitHub's Storage 
  > 
-> 🏆 5,013 Contributions in the Year 2026
+> 🏆 5,016 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -89,43 +89,44 @@ Sunday                   7748 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Markdown                 4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-HTML                     3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Other                    3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Go                       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+TypeScript               9 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.13 % 
+Markdown                 4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+HTML                     3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Kotlin                   3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Other                    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 55 mins      ████████████████████████░   94.38 % 
-Obsidian                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Xcode                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Postman                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Claude Code              25 hrs 51 mins      ████████████████████████░   96.28 % 
+Obsidian                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Postman                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Xcode                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      17 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 13 mins (96.1%)
+⏱ AI Coding Time: 26 hrs 5 mins (97.14%)
 
-✍️ 2,614 lines written by AI, 11 lines written by hand (99.58% AI-written)
+✍️ 2,426 lines written by AI, 11 lines written by hand (99.55% AI-written)
 
-🔤 5,596,171 Input Tokens, 1,012,209 Output Tokens
+🔤 9,398,416 Input Tokens, 1,639,713 Output Tokens
 
-💵 $278.04 Estimated AI Cost This Week
+💵 $395.96 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 132 AI Prompts
+🧠 62 AI Sessions, 214 AI Prompts
 
-Opus                     2,687 lines         █████████████████████████   100.00 % 
+Opus                     2,505 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.58% of written lines came from AI
-📚 Verbose Prompter — average 2,524 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.41% of changed lines were hand-edited
+🤖 AI-Driven — 99.55% of written lines came from AI
+📚 Verbose Prompter — average 2,407 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -141,5 +142,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 10:17:14 UTC
+ Last Updated on 29/08/2026 06:14:28 UTC
 <!--END_SECTION:waka-->
