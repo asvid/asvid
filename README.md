@@ -34,11 +34,11 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Devlog #14](https://swiderski.tech/2026-08-31-kombine-devlog-14/)
 - [The Freedom of Pet Projects](https://swiderski.tech/2026-08-26-freedom-of-pet-projects/)
 - [Devlog #13](https://swiderski.tech/2026-08-24-kombine-devlog-13/)
 - [Devlog #12](https://swiderski.tech/2026-08-17-kombine-devlog-12/)
 - [Devlog #11](https://swiderski.tech/2026-08-10-kombine-devlog-11/)
-- [Devlog #10](https://swiderski.tech/2026-08-03-kombine-devlog-10/)
 <!-- BLOG-POST-LIST:END -->
 <!-- 
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
