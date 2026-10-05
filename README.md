@@ -44,9 +44,9 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 <img align="left" alt="asvids's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asvid&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C186%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C191%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-860%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-866%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,7 +54,7 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 
 > 📦 598.9 kB Used in GitHub's Storage 
  > 
-> 🏆 5,895 Contributions in the Year 2026
+> 🏆 5,910 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -65,21 +65,21 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9043 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-🌆 Daytime                16455 commits       ████████░░░░░░░░░░░░░░░░░   32.63 % 
-🌃 Evening                23128 commits       ███████████░░░░░░░░░░░░░░   45.87 % 
-🌙 Night                  1798 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+🌞 Morning                8920 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+🌆 Daytime                16334 commits       ████████░░░░░░░░░░░░░░░░░   32.70 % 
+🌃 Evening                22917 commits       ███████████░░░░░░░░░░░░░░   45.88 % 
+🌙 Night                  1774 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   7178 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Tuesday                  6828 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Wednesday                6642 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Thursday                 6132 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Friday                   6783 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Saturday                 7853 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Sunday                   9008 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Monday                   7105 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Tuesday                  6773 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Wednesday                6594 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Thursday                 6081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Friday                   6701 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Saturday                 7773 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Sunday                   8918 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
 ```
 
 
@@ -89,42 +89,42 @@ Sunday                   9008 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 9 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-Kotlin                   6 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Other                    4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-TypeScript               3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Go                       2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Markdown                 8 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+Kotlin                   4 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+TypeScript               3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Other                    3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Go                       2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 42 mins      ██████████████████████░░░   88.28 % 
-Copilot                  1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Copilot CLI              1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Xcode                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Android Studio           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Claude Code              24 hrs 53 mins      ██████████████████████░░░   86.64 % 
+Copilot                  1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Copilot CLI              1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Xcode                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Android Studio           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 Operating System: 
-Mac                      33 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 34 mins (99.75%)
+⏱ AI Coding Time: 28 hrs 38 mins (99.7%)
 
-✍️ 12,682 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 14,065 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 17,913,450 Input Tokens, 2,995,711 Output Tokens
+🔤 15,871,356 Input Tokens, 2,604,230 Output Tokens
 
-💵 $257.98 Estimated AI Cost This Week
+💵 $220.14 Estimated AI Cost This Week
 
-🧠 102 AI Sessions, 373 AI Prompts
+🧠 93 AI Sessions, 341 AI Prompts
 
-Opus                     13,344 lines        ███████████████████████░░   93.53 % 
-Sonnet                   923 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Opus                     14,497 lines        ████████████████████████░   94.01 % 
+Sonnet                   923 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,709 characters per prompt
+📚 Verbose Prompter — average 1,712 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -142,5 +142,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 04:57:33 UTC
+ Last Updated on 05/10/2026 04:47:06 UTC
 <!--END_SECTION:waka-->
