@@ -89,42 +89,42 @@ Sunday                   8918 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 6 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   31.40 % 
-TypeScript               3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Other                    3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Kotlin                   2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Go                       1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Markdown                 4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+TypeScript               3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+Other                    2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Kotlin                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Go                       46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 35 mins      █████████████████████░░░░   83.70 % 
-Copilot                  1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Copilot CLI              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Android Studio           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Xcode                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Claude Code              11 hrs 30 mins      ███████████████████░░░░░░   77.05 % 
+Copilot                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Copilot CLI              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Android Studio           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Xcode                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Mac                      21 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      14 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 55 mins (99.6%)
+⏱ AI Coding Time: 14 hrs 50 mins (99.43%)
 
-✍️ 7,152 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,855 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,745,463 Input Tokens, 1,720,110 Output Tokens
+🔤 7,268,296 Input Tokens, 1,069,292 Output Tokens
 
-💵 $142.00 Estimated AI Cost This Week
+💵 $90.75 Estimated AI Cost This Week
 
-🧠 65 AI Sessions, 249 AI Prompts
+🧠 47 AI Sessions, 187 AI Prompts
 
-Opus                     7,013 lines         ██████████████████████░░░   88.37 % 
-Sonnet                   923 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Opus                     4,164 lines         ████████████████████░░░░░   81.86 % 
+Sonnet                   923 lines           █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,448 characters per prompt
+📄 Detailed Prompter — average 1,253 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -142,5 +142,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 05:33:39 UTC
+ Last Updated on 07/10/2026 05:03:31 UTC
 <!--END_SECTION:waka-->
