@@ -54,7 +54,7 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 
 > 📦 598.9 kB Used in GitHub's Storage 
  > 
-> 🏆 5,916 Contributions in the Year 2026
+> 🏆 5,920 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -89,42 +89,42 @@ Sunday                   8918 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-TypeScript               3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-Other                    2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Kotlin                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Go                       46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Markdown                 3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+TypeScript               2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Other                    1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Kotlin                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Go                       46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 30 mins      ███████████████████░░░░░░   77.05 % 
-Copilot                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Copilot CLI              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Android Studio           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Xcode                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Claude Code              8 hrs 48 mins       ███████████████████░░░░░░   74.76 % 
+Copilot                  1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Copilot CLI              1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Android Studio           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Xcode                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Mac                      14 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 50 mins (99.43%)
+⏱ AI Coding Time: 11 hrs 41 mins (99.28%)
 
-✍️ 4,855 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,087 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,268,296 Input Tokens, 1,069,292 Output Tokens
+🔤 5,738,638 Input Tokens, 879,510 Output Tokens
 
-💵 $90.75 Estimated AI Cost This Week
+💵 $72.15 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 187 AI Prompts
+🧠 34 AI Sessions, 137 AI Prompts
 
-Opus                     4,164 lines         ████████████████████░░░░░   81.86 % 
-Sonnet                   923 lines           █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Opus                     3,761 lines         ██████████████████████░░░   87.20 % 
+Sonnet                   552 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,253 characters per prompt
+📄 Detailed Prompter — average 1,235 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -142,5 +142,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 05:03:31 UTC
+ Last Updated on 08/10/2026 05:12:37 UTC
 <!--END_SECTION:waka-->
