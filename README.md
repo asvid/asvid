@@ -54,7 +54,7 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 
 > 📦 599.1 kB Used in GitHub's Storage 
  > 
-> 🏆 6,504 Contributions in the Year 2026
+> 🏆 6,551 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -65,17 +65,17 @@ My office is split down the middle: a clean desk for coding, a dirty workbench f
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9289 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-🌆 Daytime                16551 commits       ████████░░░░░░░░░░░░░░░░░   32.45 % 
-🌃 Evening                23308 commits       ███████████░░░░░░░░░░░░░░   45.70 % 
-🌙 Night                  1854 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+🌞 Morning                9291 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+🌆 Daytime                16554 commits       ████████░░░░░░░░░░░░░░░░░   32.45 % 
+🌃 Evening                23318 commits       ███████████░░░░░░░░░░░░░░   45.71 % 
+🌙 Night                  1854 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   7195 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Monday                   7210 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 Tuesday                  6809 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Wednesday                6706 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Wednesday                6706 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 Thursday                 6505 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 Friday                   6820 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 Saturday                 7831 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
@@ -89,44 +89,44 @@ Sunday                   9136 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    17 hrs 1 min        █████████████░░░░░░░░░░░░   53.07 % 
-Markdown                 5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Go                       1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Java Properties          1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-SQL                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Other                    13 hrs 16 mins      ███████████████░░░░░░░░░░   59.17 % 
+Markdown                 3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Go                       1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Kotlin                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+HTTP Request             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
-Supacode                 8 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.68 % 
-Copilot CLI              5 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Slack                    5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Copilot                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Claude Code              7 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.30 % 
+Supacode                 5 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Slack                    4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Copilot CLI              2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Postman                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 💻 Operating System: 
-Mac                      32 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      22 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 11 mins (72.31%)
+⏱ AI Coding Time: 15 hrs 47 mins (70.4%)
 
-✍️ 4,512 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 3,685 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 14,270,270 Input Tokens, 1,500,037 Output Tokens
+🔤 11,139,829 Input Tokens, 1,318,807 Output Tokens
 
-💵 $133.01 Estimated AI Cost This Week
+💵 $113.05 Estimated AI Cost This Week
 
-🧠 158 AI Sessions, 384 AI Prompts
+🧠 143 AI Sessions, 331 AI Prompts
 
-Opus                     3,585 lines         ████████████████████░░░░░   79.45 % 
-Sonnet                   927 lines           █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+Opus                     3,450 lines         ███████████████████████░░   93.62 % 
+Sonnet                   235 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,792 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,924 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -142,5 +142,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 03:54:03 UTC
+ Last Updated on 27/10/2026 04:18:27 UTC
 <!--END_SECTION:waka-->
